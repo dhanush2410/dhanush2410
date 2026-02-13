@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 I am a motivated Front-End and Java Full Stack Developer with hands-on experience in building responsive web applications using **React.js**, **JavaScript**, and **Tailwind CSS**. I have a strong foundation in **Java**, **Python**, and **SQL**, and I enjoy creating clean, scalable, and user-friendly applications.
 
-- 🎓 B.Tech in Information Technology (CGPA: 8.58)
+- 🎓 B.Tech in Information Technology (CGPA: 8.63)
 - 💼 Front-End Developer Intern at Prodesk & Novi-Tech
 - 🔍 Interested in Web Development & Full Stack Engineering
 
